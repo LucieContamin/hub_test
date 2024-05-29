@@ -166,4 +166,3 @@ round_20240428 <- create_round(round_id_from_variable = TRUE,
 
 # Create tasks.json -----
 tasks_config <- create_config(create_rounds(round_20240428))
-
