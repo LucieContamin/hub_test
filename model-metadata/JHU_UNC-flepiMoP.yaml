@@ -1,0 +1,58 @@
+team_name: "Johns Hopkins ID Dynamics and University of North Carolina Chapel Hillt"
+team_abbr: "JHU_UNC"
+model_name: "flepiMoP"
+model_abbr: "flepiMoP"
+model_version: "1.0"
+model_contributors: [
+  {
+    "name": "Joseph Lemaitre",
+    "affiliation": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "name": "Sara Loo",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+    "name": "Emily Przykucki",
+    "affiliation": "University of North Carolina at Chapel Hill"
+  }
+  {
+    "name": "Sung-mok Jung",
+    "affiliation": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "name": "Claire P. Smith",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+    "name": "Clif McKee",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+   "name": "Pengcheng Fang",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+   "name": "Koji Sato",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+    "name": "Alison Hill",
+    "affiliation": "Johns Hopkins University"
+  },
+  {
+    "name": "Justin Lessler",
+    "affiliation": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "name": "Shaun Truelove",
+    "affiliation": "Johns Hopkins University"
+  }
+]
+website_url: "https://github.com/"
+license: "CC-BY-4.0"
+model_details: [
+    {
+      "methods": "Hub round template file with no value"
+    }
+]

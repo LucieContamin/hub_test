@@ -1,0 +1,18 @@
+team_name: "Hubtest"
+team_abbr: "Hubtest"
+model_name: "hubtemplate"
+model_abbr: "hubtemp"
+model_version: "1.0"
+model_contributors: [
+  {
+    "name": "Jane Doe",
+    "affiliation": "University of",
+  }
+]
+website_url: "https://github.com/"
+license: "CC-BY-4.0"
+model_details: [
+    {
+      "methods": "Hub round template file with no value"
+    }
+]
