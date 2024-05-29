@@ -71,6 +71,30 @@
               "target_type": "discrete",
               "is_step_ahead": true,
               "time_unit": "week"
+            },
+                        {
+              "target_id": "cum death",
+              "target_name": "Cumulative deaths",
+              "target_units": "count",
+              "target_keys": {
+                "target": "cum death"
+              },
+              "description": "Weekly cumulative deaths due to COVID-19 since the beginning of the simulation.",
+              "target_type": "discrete",
+              "is_step_ahead": true,
+              "time_unit": "week"
+            },
+            {
+              "target_id": "cum hosp",
+              "target_name": "Cumulative hospitalizations",
+              "target_units": "count",
+              "target_keys": {
+                "target": "cum hosp"
+              },
+              "description": "Weekly cumulative reported hospitalizations where the patient has COVID-19, since the beginning of the simulation.",
+              "target_type": "discrete",
+              "is_step_ahead": true,
+              "time_unit": "week"
             }
           ]
         },
@@ -108,16 +132,6 @@
                 "optional": [0, 1]
               },
               "value" : {
-                "type": "double",
-                "minimum": 0
-              }
-            },
-            "mean": {
-              "output_type_id": {
-                "required": null,
-                "optional": ["NA"]
-              },
-              "value": {
                 "type": "double",
                 "minimum": 0
               }
@@ -178,8 +192,7 @@
       "submissions_due": {
         "start": "2024-04-30",
         "end": "2025-05-17"
-      },
-      "partition": ["origin_date", "target"]
+      }
     }
   ]
 }

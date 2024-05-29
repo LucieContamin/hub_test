@@ -28,6 +28,6 @@
             "model_type": "ensemble"
         }
     ],
-    "file_format": ["csv", "parquet", "zip"],
+    "file_format": ["parquet"],
     "timezone": "US/Eastern"
 }
