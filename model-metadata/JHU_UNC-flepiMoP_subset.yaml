@@ -1,7 +1,7 @@
 team_name: "Johns Hopkins ID Dynamics and University of North Carolina Chapel Hillt"
 team_abbr: "JHU_UNC"
-model_name: "flepiMoP"
-model_abbr: "flepiMoP"
+model_name: "flepiMoP_subset"
+model_abbr: "flepiMoP_subset"
 model_version: "1.0"
 model_contributors: [
   {
@@ -53,6 +53,6 @@ website_url: "https://github.com/"
 license: "CC-BY-4.0"
 model_details: [
     {
-      "methods": "Files from COVID SMH Round 18"
+      "methods": "Subset of Files from COVID SMH Round 18 - only US, sample output type and 100 samples"
     }
 ]
