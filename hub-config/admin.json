@@ -11,7 +11,6 @@
         "owner": "midas-network",
         "name": "covid19-scenario-modeling-hub"
     },
-    "hub_models": [],
     "file_format": ["parquet"],
     "timezone": "US/Eastern"
 }
